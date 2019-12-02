@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886524243298",
+    "firebase_url": "https://escouniv-a28ca.firebaseio.com",
+    "project_id": "escouniv-a28ca",
+    "storage_bucket": "escouniv-a28ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886524243298:android:4979b515a9e43627b3d03b",
+        "android_client_info": {
+          "package_name": "com.app.escouniv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886524243298-lstnjmmtp5sdqo0579uc2jb6v3qfseh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeogLigcV19L9PGUoGVSPCcsan7Q018RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886524243298-lstnjmmtp5sdqo0579uc2jb6v3qfseh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886524243298-m1v19071rkhtg224pqhjabe4f8h9kfbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.escouniv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
